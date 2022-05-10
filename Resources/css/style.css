@@ -1,0 +1,136 @@
+.topnav {
+  position: relative;
+  width: auto;
+  overflow: hidden;
+  background-color: khaki;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  color: black;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+.banner {
+  background-image: url("./images/pattern.webp");
+  min-height: 500px;
+  width: 100%;
+}
+
+.banner #home {
+  padding-top: 70px;
+  margin-top: -20px;
+  position: relative;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+
+}
+
+.brushtype {
+  background-color: mediumspringgreen;
+  background-size: contain;
+  padding-bottom: 10px;
+  padding-left: 20px;
+
+}
+
+#brushes p {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding-top: 15px;
+}
+
+.brushing h2 {
+  font-family: Helvetica;
+  font-size: 22px;
+}
+
+.brushing p {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
+.brushing span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
+
+.frametype {
+  background-color: lightcoral;
+  background-size: contain;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+#frames p {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding-top: 15px;
+}
+
+.framing h2 {
+  font-family: Helvetica;
+  font-size: 22px;
+}
+
+.framing p {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
+.framing span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
+
+.painttype {
+  background-color: skyblue;
+  background-size: contain;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+#paint p {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding-top: 15px;
+}
+
+.painting h2 {
+  font-family: Helvetica;
+  font-size: 22px;
+}
+
+.painting p {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
+.painting span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
